@@ -1,9 +1,9 @@
 # Pianificatore di Attività Produttive (Assembly AT&T)
 
-**Autori:** Matteo Drago (VR500241), Marco Broccolato (VR501013)
-**Corso:** Architettura degli Elaboratori
-**Anno Accademico:** 2023/2024
-**Università:** Università di Verona
+**Autori:** Matteo Drago (VR500241), Marco Broccolato (VR501013)  
+**Corso:** Architettura degli Elaboratori  
+**Anno Accademico:** 2023/2024  
+**Università:** Università di Verona  
 
 ---
 
